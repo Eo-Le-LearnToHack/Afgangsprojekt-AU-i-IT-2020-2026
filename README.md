@@ -27,8 +27,7 @@ Gad vide om der er nogen som har god erfaring med at bruge biblioteket og hvorda
 
 # Tema 2: Problemformulering (Uge 37 - 07.09.2026-13.09.2026)
 ```
-!!! Mangler at læse kap. 14 i bogen.
-Læst og set videoer angivet i Tema 2.
+Læst kap. 14 i bogen og set videoer angivet i Tema 2.
 Gennemført øvelse og quiz.
 Afleveret indledning+problemstilling+problemformulering
 Anmodet om feedback fredag d. 11.09.2026 kl 20.30-21.00
@@ -37,7 +36,27 @@ også selv om fristen for feedback er søndag d.  13.september kl 23.59
 
 # Tema 3: Projektskrivning (Uge 38 - 14.09.2026-20.09.2026)
 ```
-!!! Påbegyndt
+!! Mangler spørgeskema - Åbner først man. 28.09.2026
+Læst kap. 22 i bogen og set videoer angivet i Tema 3.
 Livelearning: Dialog & refleksion, torsdag d. 17.09.2026 kl 20.00-21.00
+
+Anmodet om vejledning torsdag d. 24.09.2026 kl 20.30-21.00
+på projektets Metode og Analyse.
+```
+
+# Tema 4: Metode til indsamling af data (Uge 39 - 21.09.2026-27.09.2026)
+```
+!! Mangler kap. 7-21 i bogen + Læringsaktviteter
+Set videoer angivet i Tema 4.
+```
+
+# Tema 5: Teorivalg (Uge 40 - 28.09.2026-04.10.2026)
+```
+!! Mangler kap. 15 i borgen + Læringsaktviteter
+```
+
+# Tema 6: Teorivalg (Uge 41 - 05.10.2026-11.10.2026)
+```
+Livelearning: Midtvejsmøde, tirsdag d. 06.10.2026 kl 20.00-21.00
 ```
 
