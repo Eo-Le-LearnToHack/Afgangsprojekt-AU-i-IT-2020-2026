@@ -46,8 +46,15 @@ på projektets Metode og Analyse.
 
 # Tema 4: Metode til indsamling af data (Uge 39 - 21.09.2026-27.09.2026)
 ```
-!! Mangler kap. 7-21 i bogen + Læringsaktviteter
+!! Skal læse kap. 7-21 i bogen + Læringsaktviteter
+!! Mangler kap. 8-21 i bogen + Læringsaktviteter
 Set videoer angivet i Tema 4.
+
+Vejledning torsdag d. 24.09.2026 kl 20.30-21.00
+FEEDBACK
+Afgrænsning skal omskrives så omfang og krav ikke indblandes.
+Afgrænsning skal tage udgangspunkt direkte i problemformuleringen og skal være kortfattet ligesom problemformuleringen.
+Metode: Forklar nærmere hvad der menes med Under, Byg, Test og Evaluer
 ```
 
 # Tema 5: Teorivalg (Uge 40 - 28.09.2026-04.10.2026)
